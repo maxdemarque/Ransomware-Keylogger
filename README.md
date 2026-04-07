@@ -261,8 +261,8 @@ Criar essas ferramentas em laboratório deixa claro o quão devastador um ataque
 
 ## 🖼️ Simulações Visuais
 
-  * `![Tela de Resgate](images/nota_resgate.png)`
-  * `![E-mail do Keylogger](images/email_keylogger.png)`
+  * ![Tela de Resgate](images/nota_resgate.png)
+  * [E-mail do Keylogger](images/email_keylogger.png)
 
 <!-- end list -->
 
