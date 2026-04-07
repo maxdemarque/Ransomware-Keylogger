@@ -261,10 +261,6 @@ Criar essas ferramentas em laboratório deixa claro o quão devastador um ataque
 
 ## 🖼️ Simulações Visuais
 
-*Nota: As imagens das execuções estão armazenadas na pasta `/images` do repositório, criadas a partir de mockups HTML para garantir a segurança da demonstração.*
-
-*(Coloque aqui as tags de imagem após salvá-las no seu repositório, por exemplo:)*
-
   * `![Tela de Resgate](images/nota_resgate.png)`
   * `![E-mail do Keylogger](images/email_keylogger.png)`
 
